@@ -1,0 +1,15 @@
+<Device Model="DIN-AP4">
+   <Network Type="Cresnet" Id="01">
+      <Device Model="C2N-CBD-P" DeviceId="26"/>
+      <Device Model="C2N-CBD-P" DeviceId="27"/>
+      <Device Model="C2N-CBD-P" DeviceId="28"/>
+      <Device Model="C2N-CBD-P" DeviceId="29"/>
+      <Device Model="DIN-1DIMU4" DeviceId="87"/>
+      <Device Model="DIN-1DIMU4" DeviceId="88"/>
+   </Network>
+   <Network Type="Ethernet" Id="02">
+      <Device Model="TSW-750" DeviceId="03"/>
+      <Device Model="Core3 UI XPanel" DeviceId="10" Name="XPanel 2.0 Smart Graphics"/>
+      <Device Model="Crestron_App" DeviceId="11" Name="Crestron App"/>
+   </Network>
+</Device>
